@@ -18,8 +18,8 @@
 [![Personal Website](./img/globe-light.svg)](https://pkmeiner.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://pkmeiner.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/parker-m#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/parker-m#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/parker-m#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/parker-m#gh-dark-mode-only)
 
 
 [website]: https://pkmeiner.com
