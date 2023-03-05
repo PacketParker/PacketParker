@@ -1,5 +1,9 @@
 Hi 👋 My name is Parker
-=======================* 🌍  I'm based in Texas* 🖥️  See my portfolio at [pkrm.dev](http://pkrm.dev)* ✉️  You can contact me at [contact@pkrm.dev](mailto:contact@pkrm.dev)
+=======================
+
+*   🌍  I'm based in Texas
+*   🖥️  See my portfolio at [pkrm.dev](http://pkrm.dev)
+*   ✉️  You can contact me at [contact@pkrm.dev](mailto:contact@pkrm.dev)
 
 ### Skills
 
