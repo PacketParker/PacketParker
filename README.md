@@ -9,7 +9,6 @@ Hi 👋 My name is Parker
 Public Key Fingerprint -
 0C02 B10D 0CCA AC76 C551 D5A6 66AC 8A7C 8D16 85A8
 ```
-<br>
 
 ### Skills
 <p>
