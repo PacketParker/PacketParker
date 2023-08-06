@@ -3,7 +3,7 @@ Hi 👋 My name is Parker
 
 *   🌍  I'm based in the United States
 *   🖥️  See my portfolio at [pkrm.dev](http://pkrm.dev)
-*   ✉️  You can contact me at [contact@pkrm.dev](mailto:contact@pkrm.dev)
+*   ✉️  Contact me via email at [contact@pkrm.dev](mailto:contact@pkrm.dev)
 *   ⚡  Use my [PGP Public Key](https://pkrm.dev/parker-m.asc), especially when emailing sensitive content
 ```
 Public Key Fingerprint -
