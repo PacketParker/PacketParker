@@ -10,7 +10,7 @@ Public Key Fingerprint -
 58B7 6B8B BAB8 794D 21E2 579C 95CD 2E0C 7E32 9F2A
 ```
 
-## Skills
+### Skills
 <p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
