@@ -7,7 +7,7 @@ Hi 👋 My name is Parker
 *   ⚡  Use my [PGP Public Key](https://pkrm.dev/pgp), especially when emailing sensitive content
 ```
 Public Key Fingerprint -
-58B7 6B8B BAB8 794D 21E2 579C 95CD 2E0C 7E32 9F2A
+FD5C 7FFF 860B 6E97 7049 E27E 505E D36F C12B 5D5E
 ```
 
 ### Skills
