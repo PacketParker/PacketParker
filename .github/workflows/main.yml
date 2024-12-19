@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: packetparker/metrics@master
+      - uses: packetparker/metrics@main
         with:
           # Your GitHub token
           # The following scopes are required:
