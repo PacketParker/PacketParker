@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: packetparker/metrics@maswer
+      - uses: packetparker/metrics@master
         with:
           # Options
           user: PacketParker
