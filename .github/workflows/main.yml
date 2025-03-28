@@ -32,4 +32,4 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_indepth: true
           plugin_languages_details: lines, bytes-size
-          plugin_languages_analysis_timeout_repositories: 30
+          plugin_languages_indepth_custom: packetparker/cs312, packetparker/cs314
