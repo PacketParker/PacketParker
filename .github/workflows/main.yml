@@ -28,8 +28,8 @@ jobs:
           base: header
           config_timezone: America/Chicago
           commits_authoring: PacketParker, contact@pkrm.dev, Parker M, Parker M., Parker
-          plugin_languages: yes
+          plugin_languages: true
           plugin_languages_limit: 4
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: true
           plugin_languages_details: lines, bytes-size
           plugin_languages_analysis_timeout_repositories: 30
